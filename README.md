@@ -18,5 +18,5 @@ O e-book apresenta um conteúdo certeiro e toda parte gráfica foi feita pela IA
 
 LINK PARA O E-BOOK AQUI
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar este e-book foi uma experiência incrível sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
